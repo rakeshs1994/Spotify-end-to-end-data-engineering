@@ -26,6 +26,8 @@ This API containes information about music artist, album and songs - https://dev
 
 6. **Amazon Athena:**  Amazon Athena  is an interactive query service that makes it easy to analyse data in Amazon S3 using standard SQL. You can use Athena to analyze data in your  Glue Data Catalog or in other s3 buckets.
 
+7. **Snowflake:** Snowflake is a cloud-based Data Warehouse Platform  designed for storing, processing, and analyzing large amounts of structured and semi-structured data.
+
 ### Project Execution Flow:
 Extract Data from API -> Lamda Trigger (every 1 hour) -> Run Extract code -> Store Raw Data -> Trigger Transform Function -> Transform Data and Load It ->
-Query using Athena.
+Query using Athena/Query from Snowflake.
