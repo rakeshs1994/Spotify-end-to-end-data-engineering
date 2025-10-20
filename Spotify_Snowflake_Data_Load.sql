@@ -41,7 +41,7 @@ TRUNCATE TABLE spotify.PUBLIC.album_data;
 
 create or replace stage  spotify.PUBLIC.aws_stage_artist
 URL = "s3://spotify-etl-project-rakeshs/transformed_data/artist_data/"
-CREDENTIALS = (AWS_KEY_ID = 'AKIAVT6T7GQEN43Q2QFH' AWS_SECRET_KEY = 'QdrQKobQsOaWcrSwTOjGPtOT5hmY2Ln7Uv45O3H7');
+CREDENTIALS = (AWS_KEY_ID = '***' AWS_SECRET_KEY = '***');
 
 
 COPY INTO spotify.PUBLIC.artist_data
@@ -56,7 +56,7 @@ TRUNCATE TABLE spotify.PUBLIC.artist_data;
 
 create or replace stage  spotify.PUBLIC.aws_stage_songs
 URL = "s3://spotify-etl-project-rakeshs/transformed_data/songs_data/"
-CREDENTIALS = (AWS_KEY_ID = 'AKIAVT6T7GQEN43Q2QFH' AWS_SECRET_KEY = 'QdrQKobQsOaWcrSwTOjGPtOT5hmY2Ln7Uv45O3H7');
+CREDENTIALS = (AWS_KEY_ID = '***' AWS_SECRET_KEY = '***');
 
 
 COPY INTO spotify.PUBLIC.songs_data
