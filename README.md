@@ -8,6 +8,9 @@ In this project, we will build an ETL (Extract, Transform, Load) pipeline using 
 
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/6cdac855-4fa3-46fb-823d-9689db0b0ae8" />
 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3d5d1e88-4cbf-422f-8f70-7b6f0cdd9568" />
+
+
 
 ### About Dataset/API
 This API containes information about music artist, album and songs - https://developer.spotify.com/documentation/web-api
