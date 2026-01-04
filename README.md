@@ -8,6 +8,8 @@ In this project, we will build an ETL (Extract, Transform, Load) pipeline using 
 
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/6cdac855-4fa3-46fb-823d-9689db0b0ae8" />
 
+
+
 <img width="2450" height="1521" alt="image" src="https://github.com/user-attachments/assets/9418760f-cc2c-4741-a699-8e2821d20ace" />
 
 
