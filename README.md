@@ -6,16 +6,19 @@ In this project, we will build an ETL (Extract, Transform, Load) pipeline using 
 
 ### Architecture:
 
-<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/6cdac855-4fa3-46fb-823d-9689db0b0ae8" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f0c0fff1-e292-4fa6-b316-75302f40e7eb" />
 
 
 
 
-<img width="2450" height="1521" alt="image" src="https://github.com/user-attachments/assets/9418760f-cc2c-4741-a699-8e2821d20ace" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3504a53d-ae2d-452f-90f6-ed2fa0a762cc" />
 
 
 
-<img width="1326" height="708" alt="image" src="https://github.com/user-attachments/assets/450031d2-48f0-4f73-a04b-b8f5497ba5ed" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cfcba283-f57f-4f3a-b7a8-9a3cd777a7a0" />
+
 
 
 
